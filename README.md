@@ -6,8 +6,8 @@ Este repositorio contiene dos programas en C:
 Ambos programas están optimizados para medir el rendimiento de acceso a memoria y búsqueda eficiente en estructuras de datos grandes.
 ---------------------------------------------------------------------------------------------------------------------------------------
 * Contenido
- 1 medicion_arreglos.c - Mide el tiempo de acceso a arreglos 1D, 2D y 3D.
- 2️ busquedabinaria.c - Implementa una búsqueda binaria en una matriz ordenada de 1000 x 1000 elementos.
+- medicion_arreglos.c - Mide el tiempo de acceso a arreglos 1D, 2D y 3D.
+- busquedabinaria.c - Implementa una búsqueda binaria en una matriz ordenada de 1000 x 1000 elementos.
 ---------------------------------------------------------------------------------------------------------------------------------------
 Medición de Acceso a Arreglos (medicion_arreglos.c)
 Este programa mide el tiempo de acceso a memoria en arreglos de diferentes dimensiones sin modificar sus valores.
