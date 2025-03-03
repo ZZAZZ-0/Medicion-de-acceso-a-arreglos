@@ -1,3 +1,10 @@
+Equipo Sistemas Distribuidos:
+- Bote Sánchez Cristian
+- Celis Hernandez Ronnie
+- Chagoya Gonzalez Leonardo
+- Martínez Martínez Alberto
+- Pulido Vazquez Rodrigo
+---------------------------------------------------------------------------------------------------------------------------------------
 Medición de Acceso a Arreglos y Búsqueda Binaria en C
 
 Este repositorio contiene dos programas en C:
